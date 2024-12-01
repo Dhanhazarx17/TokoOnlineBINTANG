@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Label Aplikasi -->
+    <string name="app_name">Aiko Store</string>
+
+    <!-- Label Aktivitas -->
+    <string name="register_activity_label">Register</string>
+    <string name="main_activity_label">Main Menu</string>
+</resources>
